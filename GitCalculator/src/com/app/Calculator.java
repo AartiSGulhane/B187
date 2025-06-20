@@ -17,7 +17,8 @@ public class Calculator {
 		int a=35;
 		int b=20;
 		int res=a-b;
-		return "Subtraction= "+res;
+		System.out.println("Subtraction = ");
+		return res;
 	}
 
 }
