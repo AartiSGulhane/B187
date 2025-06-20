@@ -20,5 +20,13 @@ public class Calculator {
 		System.out.println("Subtraction = ");
 		return res;
 	}
+	
+	public void Multiplication()
+	{
+		int a=10;
+		int b=5;
+		int res=a*b;
+		System.out.println("Multiplication = "+res);
+	}
 
 }
