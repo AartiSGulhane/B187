@@ -1,0 +1,15 @@
+package com.app;
+
+public class Calculator {
+	
+	public int  addition()
+	{
+		int a=20;
+		int b=30;
+		
+		System.out.println(" This is Addition method");
+		int res=a+b;
+		return res;
+	}
+
+}
