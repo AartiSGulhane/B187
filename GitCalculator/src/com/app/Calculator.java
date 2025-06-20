@@ -12,4 +12,12 @@ public class Calculator {
 		return res;
 	}
 
+	public int subtract()
+	{
+		int a=35;
+		int b=20;
+		int res=a-b;
+		return "Subtraction= "+res;
+	}
+
 }
