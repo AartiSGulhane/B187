@@ -32,6 +32,7 @@ public class Calculator {
 	public int division()
 	{
 		System.out.println("This is Division method");
+		System.out.println("This is another sop");
 		int a=100;
 		int b=25;
 		int res=a/b;
