@@ -28,5 +28,15 @@ public class Calculator {
 		int res=a*b;
 		System.out.println("Multiplication = "+res);
 	}
+	
+	public int division()
+	{
+		System.out.println("This is Division method");
+		System.out.println("This is another sop");
+		int a=100;
+		int b=25;
+		int res=a/b;
+		return res;
+	}
 
 }
